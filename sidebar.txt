@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bdp:home|Door43 (bdp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bdp|d43-bdp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bdp/archive/master.zip|d43-bdp.zip]]
+
+**Recent Changes**
+{{changes>ns = bdp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bdp|Ethnologue data]]
+
